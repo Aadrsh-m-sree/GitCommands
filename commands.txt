@@ -1,0 +1,7 @@
+> git init [for initializing git]
+
+> git status [list all untracked files]
+
+> git add- [adding all untracked files to staging area]
+
+> git commit []
