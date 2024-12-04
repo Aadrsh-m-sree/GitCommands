@@ -18,5 +18,8 @@
 
 > git config --global user.email "your email" [to add email]
 
+> git remote (path shorthand name) add repository_link
+< git remote add origin https://github.com/Aadrsh-m-sree/GitCommands.git
 
-
+> git push (path shorthand name) (branch name)
+< git push origin master
